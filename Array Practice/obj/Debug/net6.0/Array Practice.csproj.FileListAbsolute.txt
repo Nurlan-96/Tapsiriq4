@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\bin\Debug\net6.0\Array Practice.exe
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\bin\Debug\net6.0\Array Practice.deps.json
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\bin\Debug\net6.0\Array Practice.runtimeconfig.json
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\bin\Debug\net6.0\Array Practice.dll
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\bin\Debug\net6.0\Array Practice.pdb
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\obj\Debug\net6.0\Array Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\obj\Debug\net6.0\Array Practice.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\obj\Debug\net6.0\Array Practice.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\obj\Debug\net6.0\Array Practice.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\obj\Debug\net6.0\Array Practice.dll
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\obj\Debug\net6.0\refint\Array Practice.dll
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\obj\Debug\net6.0\Array Practice.pdb
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\obj\Debug\net6.0\Array Practice.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\source\repos\Array Practice\Array Practice\obj\Debug\net6.0\ref\Array Practice.dll
